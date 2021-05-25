@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: 3989bbf9973bb0e46b46a0a5216fa70b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arrow
+    100002: //RootNode
+    100004: Bip01
+    100006: Bip01 Head
+    100008: Bip01 L Calf
+    100010: Bip01 L Clavicle
+    100012: Bip01 L Finger0
+    100014: Bip01 L Finger01
+    100016: Bip01 L Finger02
+    100018: Bip01 L Finger1
+    100020: Bip01 L Finger11
+    100022: Bip01 L Finger12
+    100024: Bip01 L Finger2
+    100026: Bip01 L Finger21
+    100028: Bip01 L Finger22
+    100030: Bip01 L Finger3
+    100032: Bip01 L Finger31
+    100034: Bip01 L Finger32
+    100036: Bip01 L Finger4
+    100038: Bip01 L Finger41
+    100040: Bip01 L Finger42
+    100042: Bip01 L Foot
+    100044: Bip01 L Forearm
+    100046: Bip01 L Hand
+    100048: Bip01 L Thigh
+    100050: Bip01 L Toe0
+    100052: Bip01 L UpperArm
+    100054: Bip01 Neck
+    100056: Bip01 Pelvis
+    100058: Bip01 R Calf
+    100060: Bip01 R Clavicle
+    100062: Bip01 R Finger0
+    100064: Bip01 R Finger01
+    100066: Bip01 R Finger02
+    100068: Bip01 R Finger1
+    100070: Bip01 R Finger11
+    100072: Bip01 R Finger12
+    100074: Bip01 R Finger2
+    100076: Bip01 R Finger21
+    100078: Bip01 R Finger22
+    100080: Bip01 R Finger3
+    100082: Bip01 R Finger31
+    100084: Bip01 R Finger32
+    100086: Bip01 R Finger4
+    100088: Bip01 R Finger41
+    100090: Bip01 R Finger42
+    100092: Bip01 R Foot
+    100094: Bip01 R Forearm
+    100096: Bip01 R Hand
+    100098: Bip01 R Thigh
+    100100: Bip01 R Toe0
+    100102: Bip01 R UpperArm
+    100104: Bip01 Spine
+    100106: Bip01 Spine1
+    100108: Bow
+    100110: Broadsword
+    100112: Broadsword02
+    100114: d01
+    100116: Gladius
+    100118: Gladius02
+    100120: Hair_FlatTop
+    100122: Hair_Messy
+    100124: Hair_Modern
+    100126: Hair_Short
+    100128: Hair_SidePart
+    100130: Hair_SlickedBack
+    100132: Hair_Thick
+    100134: Hammer
+    100136: Longsword
+    100138: m01
+    100140: m02
+    100142: m03
+    100144: m04
+    100146: m05
+    100148: m06
+    100150: m07
+    100152: m08
+    100154: m09
+    100156: m10
+    100158: m11
+    100160: Rifle
+    100162: Shield01
+    100164: Shield02
+    100166: Shield03
+    100168: SpacePistol
+    100170: SpaceRifleOld
+    100172: Spear
+    100174: WeaponBowString
+    100176: WeaponLeft
+    100178: WeaponRight
+    400000: Arrow
+    400002: //RootNode
+    400004: Bip01
+    400006: Bip01 Head
+    400008: Bip01 L Calf
+    400010: Bip01 L Clavicle
+    400012: Bip01 L Finger0
+    400014: Bip01 L Finger01
+    400016: Bip01 L Finger02
+    400018: Bip01 L Finger1
+    400020: Bip01 L Finger11
+    400022: Bip01 L Finger12
+    400024: Bip01 L Finger2
+    400026: Bip01 L Finger21
+    400028: Bip01 L Finger22
+    400030: Bip01 L Finger3
+    400032: Bip01 L Finger31
+    400034: Bip01 L Finger32
+    400036: Bip01 L Finger4
+    400038: Bip01 L Finger41
+    400040: Bip01 L Finger42
+    400042: Bip01 L Foot
+    400044: Bip01 L Forearm
+    400046: Bip01 L Hand
+    400048: Bip01 L Thigh
+    400050: Bip01 L Toe0
+    400052: Bip01 L UpperArm
+    400054: Bip01 Neck
+    400056: Bip01 Pelvis
+    400058: Bip01 R Calf
+    400060: Bip01 R Clavicle
+    400062: Bip01 R Finger0
+    400064: Bip01 R Finger01
+    400066: Bip01 R Finger02
+    400068: Bip01 R Finger1
+    400070: Bip01 R Finger11
+    400072: Bip01 R Finger12
+    400074: Bip01 R Finger2
+    400076: Bip01 R Finger21
+    400078: Bip01 R Finger22
+    400080: Bip01 R Finger3
+    400082: Bip01 R Finger31
+    400084: Bip01 R Finger32
+    400086: Bip01 R Finger4
+    400088: Bip01 R Finger41
+    400090: Bip01 R Finger42
+    400092: Bip01 R Foot
+    400094: Bip01 R Forearm
+    400096: Bip01 R Hand
+    400098: Bip01 R Thigh
+    400100: Bip01 R Toe0
+    400102: Bip01 R UpperArm
+    400104: Bip01 Spine
+    400106: Bip01 Spine1
+    400108: Bow
+    400110: Broadsword
+    400112: Broadsword02
+    400114: d01
+    400116: Gladius
+    400118: Gladius02
+    400120: Hair_FlatTop
+    400122: Hair_Messy
+    400124: Hair_Modern
+    400126: Hair_Short
+    400128: Hair_SidePart
+    400130: Hair_SlickedBack
+    400132: Hair_Thick
+    400134: Hammer
+    400136: Longsword
+    400138: m01
+    400140: m02
+    400142: m03
+    400144: m04
+    400146: m05
+    400148: m06
+    400150: m07
+    400152: m08
+    400154: m09
+    400156: m10
+    400158: m11
+    400160: Rifle
+    400162: Shield01
+    400164: Shield02
+    400166: Shield03
+    400168: SpacePistol
+    400170: SpaceRifleOld
+    400172: Spear
+    400174: WeaponBowString
+    400176: WeaponLeft
+    400178: WeaponRight
+    2300000: Arrow
+    2300002: Broadsword
+    2300004: Broadsword02
+    2300006: Gladius
+    2300008: Gladius02
+    2300010: Hammer
+    2300012: Longsword
+    2300014: Rifle
+    2300016: Shield01
+    2300018: Shield02
+    2300020: Shield03
+    2300022: SpacePistol
+    2300024: SpaceRifleOld
+    2300026: Spear
+    3300000: Arrow
+    3300002: Broadsword
+    3300004: Broadsword02
+    3300006: Gladius
+    3300008: Gladius02
+    3300010: Hammer
+    3300012: Longsword
+    3300014: Rifle
+    3300016: Shield01
+    3300018: Shield02
+    3300020: Shield03
+    3300022: SpacePistol
+    3300024: SpaceRifleOld
+    3300026: Spear
+    4300000: d01
+    4300002: m02
+    4300004: Hair_Thick
+    4300006: Hair_Short
+    4300008: Hair_SidePart
+    4300010: Hair_Messy
+    4300012: Hair_Modern
+    4300014: Hair_SlickedBack
+    4300016: Hair_FlatTop
+    4300018: m01
+    4300020: m03
+    4300022: m04
+    4300024: m06
+    4300026: m08
+    4300028: m09
+    4300030: m10
+    4300032: m11
+    4300034: m05
+    4300036: m07
+    4300038: Gladius02
+    4300040: Hammer
+    4300042: Arrow
+    4300044: Spear
+    4300046: Longsword
+    4300048: Broadsword
+    4300050: SpaceRifleOld
+    4300052: Rifle
+    4300054: Broadsword02
+    4300056: SpacePistol
+    4300058: Bow
+    4300060: Shield02
+    4300062: Shield01
+    4300064: Gladius
+    4300066: Shield03
+    7400000: Take 001
+    11100000: //RootNode
+    13700000: Bow
+    13700002: d01
+    13700004: Hair_FlatTop
+    13700006: Hair_Messy
+    13700008: Hair_Modern
+    13700010: Hair_Short
+    13700012: Hair_SidePart
+    13700014: Hair_SlickedBack
+    13700016: Hair_Thick
+    13700018: m01
+    13700020: m02
+    13700022: m03
+    13700024: m04
+    13700026: m05
+    13700028: m06
+    13700030: m07
+    13700032: m08
+    13700034: m09
+    13700036: m10
+    13700038: m11
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A01
+    second: {fileID: 2100000, guid: e4ce4796667604f4e973d2ee9ae08cfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A03
+    second: {fileID: 2100000, guid: 0ef7c37c4cb381140bd23a21e0c5cc47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A04
+    second: {fileID: 2100000, guid: a2ef6879b23ae324e9fdc2a1943b4a60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A05
+    second: {fileID: 2100000, guid: 34bdfe0aa55c1bd458f1096ce57477c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A06
+    second: {fileID: 2100000, guid: c7617d5c7165e1641846ccb6e1149cf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B03
+    second: {fileID: 2100000, guid: 70a142e5191bbeb4faadbc9db569ba6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b06
+    second: {fileID: 2100000, guid: 37d2e3a0fb175ba458158a7d37ae4e4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: d01
+    second: {fileID: 2100000, guid: 4f4957c05d90ae14081ab28552ba47fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spacerifle
+    second: {fileID: 2100000, guid: 52eccf11843988c4daa6e47e1fa0abd1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
